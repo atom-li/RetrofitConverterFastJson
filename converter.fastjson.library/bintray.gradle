@@ -18,7 +18,7 @@ def siteUrl = 'https://github.com/atom-li/RetrofitConverterFastJson'   // 项目
 
 //添加发布模块
 publish {
-    userOrg = 'atomone'                           //bintray注册的用户名
+    userOrg = 'lyy'                               //bintray注册的用户名
     groupId = 'retrofit2.converter.fastjson'      //compile引用时的第1部分groupId
     artifactId = 'converter-fastjson'             //compile引用时的第2部分项目名
     publishVersion = rootProject.ext.versionName  //compile引用时的第3部分版本号
