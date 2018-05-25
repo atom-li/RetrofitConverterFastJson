@@ -24,10 +24,9 @@ import okhttp3.RequestBody;
 import retrofit2.Converter;
 
 /**
- * ================================================
- * Created by atomone on 02/06/2017 18:23
+ * @author atomOne
+ * @date 02/07/2017 18:23
  * <a href="https://github.com/atom-li">Follow me</a>
- * ================================================
  */
 public class FastJsonRequestBodyConverter<T> implements Converter<T, RequestBody> {
 
