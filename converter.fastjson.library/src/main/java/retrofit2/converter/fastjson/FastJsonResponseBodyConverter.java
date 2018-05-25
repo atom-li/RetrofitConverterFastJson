@@ -26,7 +26,7 @@ import retrofit2.Converter;
 
 /**
  * @author atomOne
- * @date 02/07/2017 18:23
+ * 02/07/2017 18:23
  * <a href="https://github.com/atom-li">Follow me</a>
  */
 public class FastJsonResponseBodyConverter<T> implements Converter<ResponseBody, T> {

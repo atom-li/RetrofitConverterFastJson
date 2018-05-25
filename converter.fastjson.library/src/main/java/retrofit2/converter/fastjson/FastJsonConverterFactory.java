@@ -25,7 +25,7 @@ import retrofit2.Retrofit;
 
 /**
  * @author atomOne
- * @date 02/07/2017 18:23
+ * 02/07/2017 18:23
  * <a href="https://github.com/atom-li">Follow me</a>
  */
 public class FastJsonConverterFactory extends Converter.Factory {
