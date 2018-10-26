@@ -33,7 +33,7 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     implementation 'com.squareup.retrofit2:retrofit:2.4.0'
     implementation 'com.alibaba:fastjson:1.2.42'
-    compileOnly 'com.squareup.okhttp3:okhttp:3.10.0'
+    compileOnly 'com.squareup.okhttp3:okhttp:3.11.0'
 }
 
 apply from: 'bintray.gradle'
